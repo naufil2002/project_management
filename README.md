@@ -7,6 +7,7 @@ Hii Folks!👋, posting some drafts.
 📝 Add & Create Projects: Say goodbye to cumbersome processes! Our tool allows users to swiftly add and create new projects, streamlining project initiation .
 
 ![Screenshot (90)](https://github.com/naufil2002/project_management/assets/141832951/acbde2c2-d489-4b0b-9a2a-7c8cf8282282)
+![Screenshot (93)](https://github.com/naufil2002/project_management/assets/141832951/3a87d472-b8e7-4bf4-a504-0a72805f2807)
 
 
 
@@ -24,3 +25,4 @@ Technologies Used:-
 . CSS
 . TAILWIND CSS
 . JAVASCRIPT(REACT.JS)
+
